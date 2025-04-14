@@ -4,7 +4,7 @@ _Readibly_ is a fast-alternative solution for helping dyslexia people around the
 
 ---
 
-## 🚀 Tech Stack We Love
+## 🚀 Tech Stack We Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
